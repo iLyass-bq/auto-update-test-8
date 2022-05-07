@@ -31,8 +31,8 @@
     ]
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.erb.ElectronReact",
+    "productName": "auto-update-test-8",
+    "appId": "auto.update.test8",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
